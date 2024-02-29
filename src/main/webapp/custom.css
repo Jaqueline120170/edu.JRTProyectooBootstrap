@@ -1,0 +1,136 @@
+@charset "UTF-8";
+@charset "UTF-8";
+
+#nav1 {
+	background-color: rgb(202, 243, 255);
+}
+
+
+.MC {
+	background-color: #f1f1f1;
+}
+
+#tite {
+	font-family: "Kode Mono", monospace;
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+	color: black;
+}
+
+#pp {
+	background-color: rgb(202, 243, 255);
+}
+
+
+#fila {
+	display: flex;
+
+}
+
+#nav2 {
+	background-color: rgb(202, 243, 255);
+	height: 500%;
+}
+
+.nav-pills .nav-link:hover {
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+#bdy {
+	overflow-x: hidden;
+	background-color: #cfcfcf;
+}
+
+#verdes {
+	background-color: rgb(202, 243, 255);
+}
+
+#rosa {
+	text-align: center;
+	color: #101084;
+}
+
+#tabla {
+	background-color: rgb(202, 243, 255);
+}
+
+#rosa {
+	justify-content: center;
+}
+
+#pie {
+	background-color: #101084;
+}
+
+.piepag {
+	color: black;
+}
+
+.prieba {
+	background-color: rgb(202, 243, 255);
+}
+
+.btn btn-primary {
+	justify-content: center;
+}
+
+#verde {
+	text-align: center;
+	color: #101084;
+}
+
+#main {
+	background-color: #f1f1f1;
+}
+
+#section3 {
+	background-color: #101084;
+	color: white;
+}
+
+#pp1 {
+	background-color: #101084;
+}
+
+#filas {
+	justify-content: center;
+}
+
+#section3 {
+	margin: 0px;
+}
+
+
+
+body>main>div>#barra {
+	background-color: rgb(202, 243, 255) !important;
+	height: 100%;
+}
+
+.fondo-azul-claro {
+	background-color: rgb(202, 243, 255) !important;
+}
+
+.menu {
+	background-color: #f1f1f1;
+
+}
+
+#section2 {
+
+	padding: 15px;
+
+}
+
+.final {
+
+	height: auto;
+	bottom: 0;
+	background-color: rgb(202, 243, 255);
+
+}
+
+.inicio {
+	top: 0;
+}
